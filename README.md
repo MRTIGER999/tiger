@@ -8,9 +8,9 @@ pkg install git -y
 
 git clone https://github.com/MRTIGER999/tiger.git
 
-cd doxing
+cd tiger
 
-bash doxing.sh
+bash tiger.sh
 
 ---------------------
 
